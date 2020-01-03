@@ -1,0 +1,20 @@
+{
+    "signupenvi": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-signup-project-signupenvi-164001-authRole",
+            "UnauthRoleArn": "arn:aws:iam::365491810231:role/amplify-signup-project-signupenvi-164001-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::365491810231:role/amplify-signup-project-signupenvi-164001-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-signup-project-signupenvi-164001-deployment",
+            "UnauthRoleName": "amplify-signup-project-signupenvi-164001-unauthRole",
+            "StackName": "amplify-signup-project-signupenvi-164001",
+            "StackId": "arn:aws:cloudformation:us-east-1:365491810231:stack/amplify-signup-project-signupenvi-164001/d2984530-2db0-11ea-88ff-122d883fe268",
+            "AmplifyAppId": "d27m026x4ngnwr"
+        },
+        "categories": {
+            "auth": {
+                "signupproject682421e1": {}
+            }
+        }
+    }
+}
